@@ -1,5 +1,5 @@
-BASIC CALCULATOR
+# BASIC CALCULATOR
 
-- Functions
-   ADD
-   SUB
+## Functions
+  * ADD
+  * SUB
